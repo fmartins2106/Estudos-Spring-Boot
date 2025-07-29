@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ANimeServiceApplication {
+public class AnimeServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ANimeServiceApplication.class, args);
+		SpringApplication.run(AnimeServiceApplication.class, args);
 	}
 
 }
